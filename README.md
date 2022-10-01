@@ -1,6 +1,6 @@
 # Online Portfolio - Version 1
 
-> This was my first project when I started learning web development. It is a static website using plain html, css, and javascript.
+> My first attempt at a online portfolio. Very basic website using html, css, and javascript.
 
 ## Screenshots
 
