@@ -1,6 +1,6 @@
 # Online Portfolio - Version 1
 
-> My first attempt at a online portfolio. Very basic website using html, css, and javascript.
+> The first iteration of my online portfolio. Very basic website using html, css, and javascript.
 
 ## Screenshots
 
